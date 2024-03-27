@@ -19,4 +19,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time Taken - 6 hours
-### Live link -
+### Live link - [Link](https://law-home-page-omega.vercel.app/)
